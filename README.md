@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Atma ✨</h1>
+<h1 align="center">Hi there, I'm Fian ✨</h1>
 <p align="center">
   <em>“Learning by building, sharing by coding.”</em>
 </p>
